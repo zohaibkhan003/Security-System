@@ -1,7 +1,4 @@
 /*
- * zkhan003 Custom Project.c
- *
- * Created: 3/6/2018 3:17:04 PM
  * Author : Zohaib Khan
  */
 
