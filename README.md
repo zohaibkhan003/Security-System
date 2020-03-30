@@ -1,4 +1,4 @@
-# Security-System
+# SecuritySystem
 
 Created By: Zohaib Khan
 
